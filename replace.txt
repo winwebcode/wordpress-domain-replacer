@@ -1,0 +1,1 @@
+use your_database; UPDATE wp_posts SET post_content =REPLACE(post_content, 'yourdomain.info', 'newdomain.info');
